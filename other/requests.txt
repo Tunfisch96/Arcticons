@@ -393,13 +393,6 @@ https://f-droid.org/en/packages/com.therealbluepandabear.pixapencil/
 Requested 7 times
 Last requested 1687791380.0
     
-<!-- RootlessJamesDSP -->
-<item component="ComponentInfo{me.timschneeberger.rootlessjamesdsp/me.timschneeberger.rootlessjamesdsp.activity.MainActivity}" drawable="rootlessjamesdsp" />
-https://play.google.com/store/apps/details?id=me.timschneeberger.rootlessjamesdsp
-https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/
-Requested 7 times
-Last requested 1687178073.0
-    
 <!-- Skullgirls -->
 <item component="ComponentInfo{com.autumn.skullgirls/com.prime31.UnityPlayerNativeActivity}" drawable="skullgirls" />
 https://play.google.com/store/apps/details?id=com.autumn.skullgirls
@@ -414,13 +407,6 @@ https://f-droid.org/en/packages/com.boAt.wristgear/
 Requested 7 times
 Last requested 1687712028.0
     
-<!-- CPU X -->
-<item component="ComponentInfo{com.abs.cpu_z_advance/com.abs.cpu_z_advance.MainActivity}" drawable="cpu_x" />
-https://play.google.com/store/apps/details?id=com.abs.cpu_z_advance
-https://f-droid.org/en/packages/com.abs.cpu_z_advance/
-Requested 7 times
-Last requested 1687963918.0
-    
 <!-- Geometry Dash World -->
 <item component="ComponentInfo{com.robtopx.geometrydashworld/com.robtopx.geometryjumplite.GeometryDashLite}" drawable="geometry_dash_world" />
 https://play.google.com/store/apps/details?id=com.robtopx.geometrydashworld
@@ -428,27 +414,13 @@ https://f-droid.org/en/packages/com.robtopx.geometrydashworld/
 Requested 7 times
 Last requested 1688243105.0
     
-<!-- Vidio -->
-<item component="ComponentInfo{com.vidio.android/com.vidio.android.splash.SplashScreen}" drawable="vidio" />
-https://play.google.com/store/apps/details?id=com.vidio.android
-https://f-droid.org/en/packages/com.vidio.android/
-Requested 7 times
-Last requested 1688054631.0
-    
 <!-- OBS Blade -->
 <item component="ComponentInfo{com.kounex.obsBlade/com.kounex.obsBlade.MainActivity}" drawable="obs_blade" />
 https://play.google.com/store/apps/details?id=com.kounex.obsBlade
 https://f-droid.org/en/packages/com.kounex.obsBlade/
 Requested 7 times
 Last requested 1688022219.0
-    
-<!-- Dealabs -->
-<item component="ComponentInfo{com.dealabs.apps.android/com.pepper.apps.android.presentation.MainActivity}" drawable="dealabs" />
-https://play.google.com/store/apps/details?id=com.dealabs.apps.android
-https://f-droid.org/en/packages/com.dealabs.apps.android/
-Requested 7 times
-Last requested 1686697613.0
-    
+
 <!-- Gauthmath -->
 <item component="ComponentInfo{com.education.android.h.intelligence/com.ss.android.business.flutter.splash.SplashActivity}" drawable="gauthmath" />
 https://play.google.com/store/apps/details?id=com.education.android.h.intelligence
@@ -456,33 +428,12 @@ https://f-droid.org/en/packages/com.education.android.h.intelligence/
 Requested 7 times
 Last requested 1687981294.0
     
-<!-- Skyscanner -->
-<item component="ComponentInfo{net.skyscanner.android.main/net.skyscanner.shell.ui.activity.SplashActivity}" drawable="skyscanner" />
-https://play.google.com/store/apps/details?id=net.skyscanner.android.main
-https://f-droid.org/en/packages/net.skyscanner.android.main/
-Requested 7 times
-Last requested 1687957134.0
-    
 <!-- Figma -->
 <item component="ComponentInfo{com.figma.mirror/com.figma.figma.MainActivity}" drawable="figma" />
 https://play.google.com/store/apps/details?id=com.figma.mirror
 https://f-droid.org/en/packages/com.figma.mirror/
 Requested 7 times
 Last requested 1688002870.0
-    
-<!-- PREQUEL -->
-<item component="ComponentInfo{com.prequel.app/com.prequel.app.ui.SplashActivity}" drawable="prequel" />
-https://play.google.com/store/apps/details?id=com.prequel.app
-https://f-droid.org/en/packages/com.prequel.app/
-Requested 7 times
-Last requested 1688218657.0
-    
-<!-- Zepto -->
-<item component="ComponentInfo{com.zeptoconsumerapp/com.zeptoconsumerapp.MainActivity}" drawable="zepto" />
-https://play.google.com/store/apps/details?id=com.zeptoconsumerapp
-https://f-droid.org/en/packages/com.zeptoconsumerapp/
-Requested 7 times
-Last requested 1688302131.0
     
 <!-- SaverTuner -->
 <item component="ComponentInfo{s1m.savertuner/com.draco.buoy.views.MainActivity}" drawable="savertuner" />
@@ -525,20 +476,6 @@ https://play.google.com/store/apps/details?id=com.nima.mymood
 https://f-droid.org/en/packages/com.nima.mymood/
 Requested 6 times
 Last requested 1684679867.0
-    
-<!-- TickTock Video Wallpaper by TikTok -->
-<item component="ComponentInfo{com.zhiliao.musically.livewallpaper/com.ss.android.ugc.aweme.livewallpaper.ui.MainActivity}" drawable="ticktock_video_wallpaper_by_tiktok" />
-https://play.google.com/store/apps/details?id=com.zhiliao.musically.livewallpaper
-https://f-droid.org/en/packages/com.zhiliao.musically.livewallpaper/
-Requested 6 times
-Last requested 1684511218.0
-    
-<!-- ShareX -->
-<item component="ComponentInfo{com.akansh.fileserversuit/com.akansh.fileserversuit.Splash}" drawable="sharex" />
-https://play.google.com/store/apps/details?id=com.akansh.fileserversuit
-https://f-droid.org/en/packages/com.akansh.fileserversuit/
-Requested 6 times
-Last requested 1684216774.0
     
 <!-- FlashAlert -->
 <item component="ComponentInfo{fr.jnda.android.flashalert/fr.jnda.android.flashalert.MainActivity}" drawable="flashalert" />
@@ -616,14 +553,7 @@ https://play.google.com/store/apps/details?id=com.medibang.android.paint.tablet
 https://f-droid.org/en/packages/com.medibang.android.paint.tablet/
 Requested 6 times
 Last requested 1685508497.0
-    
-<!-- Downloader for Facebook -->
-<item component="ComponentInfo{facebook.video.downloader.savefrom.fb/com.atlasv.android.fbdownloader.ui.activity.StartupActivity}" drawable="downloader_for_facebook" />
-https://play.google.com/store/apps/details?id=facebook.video.downloader.savefrom.fb
-https://f-droid.org/en/packages/facebook.video.downloader.savefrom.fb/
-Requested 6 times
-Last requested 1685462098.0
-    
+
 <!-- Arena of Valor -->
 <item component="ComponentInfo{com.garena.game.kgid/com.garena.game.kgtw.SGameActivity}" drawable="arena_of_valor" />
 https://play.google.com/store/apps/details?id=com.garena.game.kgid
@@ -679,13 +609,6 @@ https://play.google.com/store/apps/details?id=com.Flanne.MinutesTillDawn.rogueli
 https://f-droid.org/en/packages/com.Flanne.MinutesTillDawn.roguelike.shooting.gp/
 Requested 6 times
 Last requested 1687677896.0
-    
-<!-- Google Cloud -->
-<item component="ComponentInfo{com.google.android.apps.cloudconsole/com.google.android.apps.cloudconsole.common.MainContainerActivity}" drawable="google_cloud" />
-https://play.google.com/store/apps/details?id=com.google.android.apps.cloudconsole
-https://f-droid.org/en/packages/com.google.android.apps.cloudconsole/
-Requested 6 times
-Last requested 1687128634.0
     
 <!-- Warframe Companion -->
 <item component="ComponentInfo{com.digitalextremes.warframenexus/com.digitalextremes.warframenexus.WarframeCompanionActivity}" drawable="warframe_companion" />

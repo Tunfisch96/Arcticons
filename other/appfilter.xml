@@ -4332,6 +4332,9 @@
   <!-- CPU Stats -->
   <item component="ComponentInfo{jp.takke.cpustats/jp.takke.cpustats.PreviewActivity}" drawable="cpustats"/>
 
+  <!-- CPU X -->
+  <item component="ComponentInfo{com.abs.cpu_z_advance/com.abs.cpu_z_advance.MainActivity}" drawable="cpu_x" />
+
   <!-- Cpu-Z -->
   <item component="ComponentInfo{com.cpuid.cpu_z/com.cpuid.cpu_z.MainActivity}" drawable="cpuz"/>
 
@@ -4704,7 +4707,7 @@
   <item component="ComponentInfo{com.fandom.playercompanion/com.fandom.playercompanion.splash.SplashActivity}" drawable="ddbplayer"/>
 
   <!-- DDF-Guide -->
-  <item component="ComponentInfo{celloapps.ddfguide/crc6486406086394c9be6.MainActivity}" drawable="ddf_guide"/>
+  <item component="ComponentInfo{celloapps.ddfguide/crc6486406086394c9b6e.MainActivity}" drawable="ddf_guide"/>
 
   <!-- De Volkskrant -->
   <item component="ComponentInfo{be.persgroep.red.mobile.android.vkn/com.visiolink.reader.SplashScreenActivity}" drawable="volkskrant"/>
@@ -4721,6 +4724,9 @@
 
   <!-- DeadHash -->
   <item component="ComponentInfo{com.codedead.deadhash/com.codedead.deadhash.gui.MainActivity}" drawable="key"/>
+
+  <!-- Dealabs -->
+  <item component="ComponentInfo{com.dealabs.apps.android/com.pepper.apps.android.presentation.MainActivity}" drawable="dealabs" />
 
   <!-- Debatekeeper -->
   <item component="ComponentInfo{net.czlee.debatekeeper/net.czlee.debatekeeper.DebatingActivity}" drawable="debatekeeper"/>
@@ -5349,6 +5355,9 @@
   <!-- Download Navi -->
   <item component="ComponentInfo{com.tachibana.downloader/com.tachibana.downloader.MainActivity}" drawable="downloadnavi"/>
   <item component="ComponentInfo{com.tachibana.downloader/com.tachibana.downloader.ui.main.MainActivity}" drawable="downloadnavi"/>
+
+  <!-- Downloader for Facebook -->
+  <item component="ComponentInfo{facebook.video.downloader.savefrom.fb/com.atlasv.android.fbdownloader.ui.activity.StartupActivity}" drawable="downloader_for_facebook" />
 
   <!-- Downloads -->
   <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="downloads"/>
@@ -14440,6 +14449,9 @@
   <!-- Prepaid-Guthaben -->
   <item component="ComponentInfo{com.github.muellerma.prepaidbalance/com.github.muellerma.prepaidbalance.ui.MainActivity}" drawable="prepaidguthaben"/>
 
+  <!-- PREQUEL -->
+  <item component="ComponentInfo{com.prequel.app/com.prequel.app.ui.SplashActivity}" drawable="prequel" />
+
   <!-- Presearch -->
   <item component="ComponentInfo{com.presearch/com.google.android.apps.chrome.Main}" drawable="presearch"/>
 
@@ -16157,6 +16169,9 @@
   <!-- Shahid -->
   <item component="ComponentInfo{net.mbc.shahid/net.mbc.shahid.activities.SplashActivity}" drawable="shahid"/>
 
+  <!-- ShareX -->
+  <item component="ComponentInfo{com.akansh.fileserversuit/com.akansh.fileserversuit.Splash}" drawable="sharex" />
+
   <!-- Share to Clipboard -->
   <item component="ComponentInfo{com.tengu.sharetoclipboard/com.tengu.sharetoclipboard.MainActivity}" drawable="sharetoclipboard"/>
 
@@ -17223,6 +17238,9 @@
 
   <!-- SkySafari -->
   <item component="ComponentInfo{com.simulationcurriculum.skysafari5/com.simulationcurriculum.skysafari.SplashScreenActivity}" drawable="skysafari"/>
+
+  <!-- Skyscanner -->
+  <item component="ComponentInfo{net.skyscanner.android.main/net.skyscanner.shell.ui.activity.SplashActivity}" drawable="skyscanner" />
 
   <!-- SkyTube -->
   <item component="ComponentInfo{free.rm.skytube.oss/free.rm.skytube.gui.activities.MainActivity}" drawable="skytube"/>
@@ -18818,6 +18836,7 @@
   <item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok"/>
   <item component="ComponentInfo{com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok"/>
   <item component="ComponentInfo{com.zhiliaoapp.musically.go/com.ss.android.ugc.aweme.main.homepage.MainActivity}" drawable="tiktok"/>
+  <item component="ComponentInfo{com.zhiliao.musically.livewallpaper/com.ss.android.ugc.aweme.livewallpaper.ui.MainActivity}" drawable="tiktok" />
 
   <!-- Tile -->
   <item component="ComponentInfo{com.thetileapp.tile/com.thetileapp.tile.activities.MainActivity}" drawable="tile"/>
@@ -20301,6 +20320,9 @@
   <!-- Vivid -->
   <item component="ComponentInfo{vivid.money/vivid.money.MainActivity}" drawable="letter_lowercase_square_v"/>
 
+  <!-- Vidio -->
+  <item component="ComponentInfo{com.vidio.android/com.vidio.android.splash.SplashScreen}" drawable="vidio" />
+
   <!-- Vivino -->
   <item component="ComponentInfo{vivino.web.app/com.sphinx_solution.Launcher}" drawable="vivino"/>
 
@@ -21515,6 +21537,9 @@
 
   <!-- Zepp -->
   <item component="ComponentInfo{com.huami.watch.hmwatchmanager/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="zepp"/>
+
+  <!-- Zepto -->
+  <item component="ComponentInfo{com.zeptoconsumerapp/com.zeptoconsumerapp.MainActivity}" drawable="letter_uppercase_square_z" />
 
   <!-- Zerodha Kite -->
   <item component="ComponentInfo{com.zerodha.kite3/com.zerodha.kite3.MainActivity}" drawable="kite"/>
